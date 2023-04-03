@@ -11,11 +11,11 @@ npm install react-native-appstandby-buckets
 ## Usage
 
 ```js
-import { multiply } from 'react-native-appstandby-buckets';
+import { getStandbyBucketStatus } from 'react-native-appstandby-buckets';
 
 // ...
 
-const result = await multiply(3, 7);
+const result = await getStandbyBucketStatus();
 ```
 
 ## Contributing

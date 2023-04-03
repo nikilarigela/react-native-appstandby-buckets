@@ -41,13 +41,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/nikilarigela/react-native-app-standby-buckets",
+  "repository": "https://github.com/nikilarigela/react-native-appstandby-buckets",
   "author": "Nikil Arigela <nikil.arigela@gmail.com> (https://github.com/nikilarigela)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nikilarigela/react-native-app-standby-buckets/issues"
+    "url": "https://github.com/nikilarigela/react-native-appstandby-buckets/issues"
   },
-  "homepage": "https://github.com/nikilarigela/react-native-app-standby-buckets#readme",
+  "homepage": "https://github.com/nikilarigela/react-native-appstandby-buckets#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

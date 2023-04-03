@@ -1,11 +1,13 @@
 # react-native-appstandby-buckets
 
-it returns the status of appstandby buckets
+It return's the status of appstandby buckets of an Android app
 
 ## Installation
 
 ```sh
 npm install react-native-appstandby-buckets
+or
+yarn add react-native-appstandby-buckets
 ```
 
 ## Usage

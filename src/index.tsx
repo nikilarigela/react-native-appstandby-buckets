@@ -17,6 +17,6 @@ const AppstandbyBuckets = NativeModules.AppstandbyBuckets
       }
     );
 
-export function multiply(a: number, b: number): Promise<number> {
-  return AppstandbyBuckets.multiply(a, b);
+export function getStandbyBucketStatus(): Promise<String> {
+  return AppstandbyBuckets.getAppStandbyBucket();
 }

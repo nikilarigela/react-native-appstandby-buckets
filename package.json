@@ -1,7 +1,7 @@
 {
   "name": "react-native-appstandby-buckets",
   "version": "0.1.1",
-  "description": "test",
+  "description": "It return's the status of appstandby buckets of an Android app",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
